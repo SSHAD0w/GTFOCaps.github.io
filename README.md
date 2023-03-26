@@ -6,3 +6,5 @@
 GTFOCaps is a curated list of Unix capabilities that can be used to bypass local security restrictions in misconfigured systems.
 
 Find the project at https://gtfocaps.github.io
+
+*This project is forked from https://travis-ci.com/GTFOBins/GTFOBins.github.io*
